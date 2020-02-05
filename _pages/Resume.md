@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my latest resume [here](anumoshsad.github.io/files/ResumeRecent.pdf).
+You can find my latest resume [here](https://anumoshsad.github.io/files/ResumeRecent.pdf).
