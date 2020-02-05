@@ -2,7 +2,7 @@
 title: "Genus of the hypercube graph and real moment-angle complexes"
 collection: publications
 permalink: /publication/paper1
-excerpt: 
+excerpt: We found a relationship between the hypercube graph and real moment-angle complexes and derive related calculations.
 <!--- date: 2009-10-01 -->
 venue: 'Topology and its Applications, Volume 258, 15 May 2019, Pages 415-424
 '
