@@ -20,10 +20,10 @@ R. Acharyya, <b>Shouman Das</b>, A. Chattoraj and I. Tanveer.
 <b>Shouman Das</b>, S A Haque, R Acharyya, M. I Tanveer.  
 
 <b>Understanding Diversity based Edge and Node Pruning of Neural Networks (Under Review)</b> <br> 
-R. Acharyya, <b>Shouman Das Das</b>, B. Zhang, Daniel. Štefankovič.
+R. Acharyya, <b>Shouman Das</b>, B. Zhang, Daniel. Štefankovič.
 
 <b>Fairness in Rating Prediction by Awareness of Verbal and Gesture Quality of Public Speeches (Under Review)</b><br> 
-R. Acharyya, <b>Shouman Das Das</b>, K. Hasan, A. Chattoraj, I. Tanveer and E. Hoque. 
+R. Acharyya, <b>Shouman Das</b>, K. Hasan, A. Chattoraj, I. Tanveer and E. Hoque. 
 
 <b> Social Bias in TED Talk Rating (Under review)</b><br> 
 R. Acharyya*,<b> Shouman Das*</b>, A. Chattoraj, O. Sengupta and I. Tanveer. 
