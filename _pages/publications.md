@@ -7,12 +7,13 @@ author_profile: true
 ## Papers Published
 
 <br>
-<b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br> 
-Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
-<i>The 24th European Conference on Artificial Intelligence</i>. <b>ECAI 2020</b>.
+<b>[Genus of The Hypercube Graph And Real Moment-Angle Complexes](https://www.sciencedirect.com/science/article/abs/pii/S0166864119300872)</b> <br> 
+<b>Shouman Das</b>.
+<i>Topology and its Applications, Volume 258, 15 May 2019, Pages 415-424.</i>. 
 
-<b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br> 
-Yuxuan Song, Ning Miao, Hao Zhou, <b>Lantao Yu</b>, Mingxuan Wang, Lei Li.
-<i>The 23rd International Conference on Artificial Intelligence and Statistics</i>. <b>AISTATS 2020</b>.
+<b>[FairyTED: A Fair Rating Predictor for TED Talk Data]('https://arxiv.org/abs/1911.11558')</b> <br> 
+R. Acharyya, <b>Shouman Das</b>, A. Chattoraj and I. Tanveer.
+<i>The Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020 (AI for Social Impact)</b>.
+
 
 ## Papers Currently Under Review
