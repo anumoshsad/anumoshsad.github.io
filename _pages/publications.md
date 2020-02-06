@@ -6,9 +6,8 @@ author_profile: true
 
 ## Papers Published
 
-<b>[Genus of The Hypercube Graph And Real Moment-Angle Complexes](https://arxiv.org/abs/1806.10220.pdf)</b> <br>  
-<b>Shouman Das</b>.
-<i>Topology and its Applications, Volume 258, 15 May 2019, Pages 415-424.</i> 
+<b>[Genus of The Hypercube Graph And Real Moment-Angle Complexes](https://arxiv.org/abs/1806.10220.pdf)</b>  
+<b>Shouman Das</b>. <i>Topology and its Applications, Volume 258, 15 May 2019, Pages 415-424.</i> 
 
 
 <b>[FairyTED: A Fair Rating Predictor for TED Talk Data](https://arxiv.org/abs/1911.11558)</b> <br> 
