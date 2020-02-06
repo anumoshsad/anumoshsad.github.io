@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &anumoshsad
+  username               : "anumoshsad"
 facebook:
   username               :
   app_id                 :
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Czu1NUcAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Shouman_Das2"
   uri              :
   bitbucket        :
   codepen          :
