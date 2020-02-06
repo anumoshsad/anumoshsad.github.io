@@ -5,19 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Courses where I have been an Instructor:
+## Courses where I have been an Instructor
   - 2020 Spring: Math 143 Calculus III
-  - 2019 Summer: Math 143 Calculus I
+  - 2019 Summer: Math 141 Calculus I
   - 2018 Summer: Math 161 Calculs IA
-  - 2017 Summer: Math 143 Calculus I
-  - 2016 Summer: Math 165 Linear Algebra and Differential Equations
-  - 2015 Summer: Math 235 Linear Algebra
+  - 2017 Summer: Math 165 Linear Algebra and Differential Equations143 Calculus I
+  - 2016 Summer: Math 235 Linear Algebra
+  
 
 ## Courses where I have been a workshop leader, grader
   - 2018 Spring: Math 161 Calculus IA (Workshop Leader)
