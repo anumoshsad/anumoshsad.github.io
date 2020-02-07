@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "https://twitter.com/mmistakes"
+  username               : "https://twitter.com/anumoshsad"
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Shouman Das"
   avatar           : "mugshot1.jpeg"
   bio              : "Mathematics PhD Candidate"
-  location         : "University of Rochester, NY USA"
+  location         : "University of Rochester, NY USA hoho"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Czu1NUcAAAAJ"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "anumoshsad"
+  github           : "https://github.com/anumoshsad"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "anumoshsad"
+  twitter          : "https://twitter.com/anumoshsad"
   vine             :
   weibo            :
   xing             :
