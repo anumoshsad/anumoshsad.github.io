@@ -12,10 +12,6 @@ redirect_from:
 * My primary research interest in pure math lies in the area of Algebraic Topology, specifically Polyhedral Products/ Moment-Angle complexes. I am also highly interested in the general area of machine learning such as Supervised Learning, Applied AI, Fairness in AI, Network Prunning.
 * I received my Bachelor’s Degree from [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) with a major in Pure Mathematics. My undergraduate research advisor was Prof. [Toshitake Kohno](https://www.ms.u-tokyo.ac.jp/~kohno/).
 
-<p align="center">
-  <img src="https://anumoshsad.github.io/images/das.JPG?raw=true" alt="Photo" style="width: 400px;"/> 
-</p>
-
 
 # Recent News
 * June 19, 2020. I successfully defended my PhD thesis "On the Structure of Polyhedral Products" under the supervision of Professor Fred Cohen.
